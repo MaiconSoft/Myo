@@ -18,4 +18,4 @@ Circuit for electrocardiogram detection like [Myoware](https://www.sparkfun.com/
 * 2 x Electrolitic capacitor 220uF x 35V
 
 ## Schematics
-![Schematics](https://github.com/MaiconSoft/Myo/Schematics/Schematics.png)
+![Schematics](https://github.com/MaiconSoft/Myo/blob/master/Schematics/Schematics.png)
